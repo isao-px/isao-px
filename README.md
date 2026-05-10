@@ -7,10 +7,13 @@ Faire de la voile et de la photo c'est sympathique.
 
 Pourquoi vouloir un texte de présentation structuré quand de toute façon on part dans tous les sens ?
 
-Les bonnes photos rendent beau ce qui est laid, les autres sont jolies  
+Les bonnes photos rendent beau ce qui est laid, les autres sont juste jolies  
 Wow l'aigreur à son paroxysme
 
 "Pour qui cette gerbe d'oiseaux noirs dans le ciel verts ?"
+
+Nothing is out of reach of dreams  
+Hör niemals auf, ein Kind zu sein. Es kann gefährlich sein
 
 <!---
 Toute personne ayant été suffisamment curieux pour lire ce commentaire est un farfadet malicieux
