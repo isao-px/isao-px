@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @isao-px
-- 👀 I’m interested in sailing and coding
-- 🌱 I’m currently learning math and physics in Geneva
+Essentiellement un étudiant qui ne sait pas quoi répondre quand on lui demande s'il es tlittéraire ou scientifique.
 
-- ⚡ Fun fact: college student
+Faire de la voile et de la photo c'est sympathique.
+-> Lire Demian et Trois Chevaux également
+
+Pourquoi vouloir un texte de présentation structuré quand de toute façon on part dans tous les sens ?
+
+Les bonnes photos rendent beau ce qui est laid, les autres sont jolies
+Wow l'aigreur à son paroxysme
+
+"Pour qui cette gerbe d'oiseaux noirs dans le ciel verts ?"
 
 <!---
-isao-px/isao-px is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Toute personne ayant été suffisamment curieux pour lire ce commentaire est un farfadet malicieux
 --->
